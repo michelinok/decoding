@@ -1,4 +1,4 @@
-Collection of "books/papers" explaining how to decode radio signals (pagers,acars,meteosat,etc...)
+This book wanna teach you how to decode radio signals (pagers,acars,meteosat,etc...)
 If you want to contribute, let me know!
 ========================================================================================================
 
